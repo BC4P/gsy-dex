@@ -1,2 +1,2 @@
-substrate-interface==0.13.9
--e git+https://github.com/gridsingularity/gsy-framework@master#egg=gsy_framework
+substrate-interface
+-e ../gsy-framework
